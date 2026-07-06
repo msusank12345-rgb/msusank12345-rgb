@@ -1,62 +1,35 @@
-<h1 align="center">Hi 👋, I'm Susank</h1>
+# Hi there 👋, I'm Susank
 
-<p align="center">
-💻 Computer Science Student • 🚀 Passionate Developer • 🔐 Cybersecurity Enthusiast
-</p>
-
----
+💻 Bachelor's Student in Computer Science
 
 ## 👨‍💻 About Me
 
-I'm a bachelor's student who enjoys building projects, learning new technologies, and improving my programming skills every day.
-
-I'm particularly interested in **web development**, **vibe coding**, and **cybersecurity**. I enjoy turning ideas into real projects and believe that the best way to learn is by building.
-
----
+I'm a Computer Science student who enjoys learning new technologies and building projects. I'm interested in software development, cybersecurity, data science, and artificial intelligence. I'm always looking for opportunities to improve my skills and learn something new.
 
 ## 🌱 Currently Learning
 
-- Full Stack Web Development
-- Cybersecurity
 - Python
-- Linux
+- Web Development
+- Cybersecurity
+- Data Science
 - Artificial Intelligence
-
----
 
 ## 🛠️ Technologies
 
-```text
-Languages:   Python • JavaScript • HTML • CSS
-
-Tools:       Git • GitHub • VS Code • Linux
-
-Learning:    React • Docker • Networking
-```
-
----
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
 ## 🎯 Goals
 
-- Build projects that solve real-world problems
-- Learn something new every day
+- Build meaningful projects
+- Improve my programming skills
+- Learn new technologies
 - Contribute to open-source projects
-- Keep improving as a developer
 
 ---
 
-## 📂 What You'll Find Here
-
-- 💻 Personal Projects
-- 🌐 Web Development
-- 🔐 Cybersecurity Experiments
-- 🤖 AI Projects
-- 📚 Learning Journey
-
----
-
-## 📫 Let's Connect
-
-I'm always open to learning, collaborating, and connecting with other developers.
-
-⭐ Thanks for stopping by!
+Thanks for visiting my profile! 😊
