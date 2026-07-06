@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys learning new technologies and building projects. I'm interested in software development, cybersecurity, data science, and artificial intelligence. I'm always looking for opportunities to improve my skills and learn something new.
+I'm a Computer Science student who enjoys learning new technologies and building projects. I'm interested in software development, cybersecurity, data science, and artificial intelligence. I enjoy learning by building projects and exploring new technologies.
 
 ## 🌱 Currently Learning
 
